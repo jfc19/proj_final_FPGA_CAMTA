@@ -9,5 +9,7 @@ data_t horner_core(
     data_t a3,
     data_t a2,
     data_t a1,
-    data_t a0);
+    data_t a0
+);
+
 #endif
